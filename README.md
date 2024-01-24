@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adasat Torres de León</h1>
-<h3 align="center">A passionate junior developer from Spain.</h3>
+<h3 align="center">A passionate developer from Spain.</h3>
 
 - 🌱 I’m currently learning **Javascript, odoo, etc...**
 
